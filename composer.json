@@ -1,0 +1,12 @@
+{
+    "name": "fundacionidi/singapur-theme",
+    "description": "Tema para Extidi",
+    "authors": [
+        {
+            "name": "arisjulio",
+            "email": "ajulio@fundacionidi.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
